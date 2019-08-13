@@ -193,6 +193,10 @@ class VehicleInfo(object):
                 "waf_target": "bin/arduplane",
                 "default_params_filename": "default_params/gazebo-zephyr.parm",
             },
+            "gazebo-sicdrone": {
+                "waf_target": "bin/arduplane",
+                "default_params_filename": "default_params/gazebo-sicdrone.parm",
+            },
             "last_letter": {
                 "waf_target": "bin/arduplane",
             },
